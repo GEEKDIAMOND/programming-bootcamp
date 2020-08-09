@@ -1,0 +1,19 @@
+/* -----------------------------
+------- tag selector -------
+-----------------------------*/
+img{border-radius: 100%}
+img:hover{background-color: white}
+/* -----------------------------
+------- class selector -------
+----------------------------- */
+.bacon {
+  background-color: green;
+}
+.broccoli{
+  background-color: yellow;
+}
+
+/* -----------------------------
+------- id selector -------
+-----------------------------*/
+#heading{color: gray}

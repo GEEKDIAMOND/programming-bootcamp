@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+
+body{ text-align: center;}
+
+a,p,h1,h2,h3{font-family: 'Montserrat', sans-serif;}
+
+h1{margin: 0}
+
+h3{ color:orange; }
+
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #aaa;
+  border-width: 4px;
+}
+
+h1.helloworld{line-height: 30px;}
+
+.from{ display: inline; }
+
+.geekacademy{
+  display: inline;
+  font-size: 300%;
+  font-weight: normal;
+}
+
+.cloudOne{
+   position: absolute;
+   top: 5px;
+   left: 60%;
+   z-index: -1;
+}
+
+.cloudTwo{
+  position: absolute;
+  top: 136px;
+  left: 93px;
+}
+
+.middle-container{margin-top: 2em;}
+
+.imgskillOne,.imgskillTwo{
+  border: solid;
+  border-radius: 100%;
+  width: 25%;
+}
+
+.imgskillOne{
+  float: left;
+  margin-right: 20px;
+}
+
+.imgskillTwo{
+  float: right;
+  margin-left: 20px;
+}
+
+.skill-row{text-align: left;}
+
+.middle-container{
+  width: 500px;
+  margin: 0 auto;
+}

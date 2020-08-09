@@ -1,0 +1,17 @@
+.box1,.box2,.box3{width:100px;height:100px}
+.box1{
+  background-color: green;
+  display: inline-block;
+  position:relative;
+  left: 100px;
+}
+.box2{
+  background-color: gold;
+  display: inline-block;
+  position:relative;
+  right: 100px;
+}
+.box3{
+  background-color: skyblue;
+  display: inline-block; 
+}

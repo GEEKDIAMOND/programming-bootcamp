@@ -1,0 +1,19 @@
+body{ text-align: center }
+
+
+.from{ display: inline; }
+
+.geekacademy{ display: inline; }
+
+ .cloudOne{
+   position: absolute;
+   top: 5px;
+   left: 60%;
+   z-index: -1;
+ }
+
+.cloudTwo{
+  position: absolute;
+  top: 136px;
+  left: 93px;
+}

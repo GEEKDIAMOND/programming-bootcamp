@@ -1,0 +1,27 @@
+.mother{
+  border: solid;
+  position:relative;
+  width:300px;
+  height:300px;
+}
+.child01,.child02,.child03{
+  width:100px;
+  height:100px;
+  /* border: solid; */
+}
+.child01{
+  background-color: green;
+  position:absolute;
+  left: 0;
+}
+.child02{
+  background-color: gold;
+  position:absolute;
+  right: 0; bottom: 0
+}
+.child03{
+  background-color: skyblue;
+  position:absolute;
+  top: 0;
+  right: 100px; top: 100px;
+}

@@ -1,0 +1,27 @@
+
+
+body,h1{margin: 0}
+
+.divTag{
+   background-color: lightgray;
+   padding: 20px;
+   border: solid black 10px;
+   width: 200px;
+   height: 200px;
+ }
+
+.divTag1{
+  background-color: blue;
+  margin-left: 260px;
+  border: solid black 20px;
+  width: 200px;
+  height: 200px;
+}
+
+.divTag2{
+  background-color: green;
+  margin-left: 500px;
+  border: solid black 10px;
+  width: 200px;
+  height: 200px;
+}
